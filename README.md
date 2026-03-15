@@ -1,22 +1,24 @@
 ![]()<img src="./images/MDWPF.png" width="1000" height="600"  alt="Proje Görseli">
-
-
-## Hi there 👋
-
-
-
-🔴 ![]()<img src="./images/MDWPF.png" width="100"  alt="Proje Görseli">[Unity Platformer]: Klasik bir 2D platform oyunu. (GitHub Linki)
-
-🔴 [Kali Tool Suite]: Özelleştirilmiş bir siber güvenlik araç paketi. (GitHub Linki)
-
-🔴 [Unity Moon]: Ay simülasyonu ve navigasyon projesi. (GitHub Linki)
-
-<p align="center">
-<a href="https://www.linkedin.com/in/wofflan/"><img src="https://img.shields.io/badge/LinkedIn-EE1111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/KULLANICI_ADIN"><img src="https://img.shields.io/badge/GitHub-EE1111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:wofflan@email.com"><img src="https://img.shields.io/badge/Email-EE1111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <br />
+        <img src="./images/banner.png" width="500" alt="Profil Banner" />
+        <br />
+        <h1>🚀 Merhaba, Ben Umut</h1>
+        <p>
+          <b>Bilgisayar Programcılığı Öğrencisi | Oyun Geliştirici | Siber Güvenlik Meraklısı</b>
+        </p>
+        <p>
+          Sistemlerin nasıl çalıştığını anlamayı ve Unity ile yeni dünyalar inşa etmeyi seviyorum. 
+          Şu an GANO 3.92 ile projelerime odaklanmış durumdayım.
+        </p>
+        <br />
+      </td>
+    </tr>
+  </table>
+</div>
 <!--
 **DeWofflan/DeWofflan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
