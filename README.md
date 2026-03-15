@@ -1,5 +1,5 @@
 
-<img src="./images/MDWPF.png" width="1000">
+
 <div>
 
 # 🔴 DeWofflan | Developer & Map Creator
@@ -15,7 +15,7 @@ Yazılım dünyasında birçok farklı alana ilgi duysam da asıl odak noktam <b
 🔺 Ekip İşi: RealMC ekibimizle birlikte Minecraft'ta "MAZE RUNNERS" oyunumuzu geliştiriyoruz. Hedefimiz bu yaz aylarında güzel bir çıkış yapmak.<br><br>
 🟥 Hobilerim: Çalışmak :D
 ---
-
+<div align="center">
 ### 🛠️ Teknolojiler & Araçlar
 <a href="https://unity.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=unity" height="55" alt="Unity" />
@@ -35,9 +35,9 @@ Yazılım dünyasında birçok farklı alana ilgi duysam da asıl odak noktam <b
 <a href="https://www.java.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java" />
 </a>
-
+</div>
 ---
-
+<img src="./images/MDWPF.png" width="1000">
 ### 📊 İstatistikler & Aktiflik
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeWofflan&show_icons=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000)
