@@ -3,16 +3,9 @@
 
 ## Hi there 👋
 
-<p align="center">
-<a href="https://unity.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Unity-FFFFFF%3Fstyle%3Dflat-square%26logo%3Dunity%26logoColor%3D000000" alt="Unity" /></a>
-<a href="https://www.kali.org/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-FFFFFF%3Fstyle%3Dflat-square%26logo%3Dkali-linux%26logoColor%3D000000" alt="Kali Linux" /></a>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-FFFFFF%3Fstyle%3Dflat-square%26logo%3Dc-sharp%26logoColor%3D000000" alt="C#" /></a>
-<a href="https://www.python.org/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-FFFFFF%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3D000000" alt="Python" /></a>
-<a href="https://www.docker.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-FFFFFF%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3D000000" alt="Docker" /></a>
-<a href="https://git-scm.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-FFFFFF%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3D000000" alt="Git" /></a>
-</p>
 
-🔴 ![]()<img src="./images/MDWPF.png" width="10"  alt="Proje Görseli">[Unity Platformer]: Klasik bir 2D platform oyunu. (GitHub Linki)
+
+🔴 ![]()<img src="./images/MDWPF.png" width="100"  alt="Proje Görseli">[Unity Platformer]: Klasik bir 2D platform oyunu. (GitHub Linki)
 
 🔴 [Kali Tool Suite]: Özelleştirilmiş bir siber güvenlik araç paketi. (GitHub Linki)
 
