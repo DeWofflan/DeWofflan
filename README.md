@@ -1,4 +1,4 @@
-![]()<img src="./images/MDWP.png" width="400"  alt="Proje Görseli">
+![]()<img src="./images/MDWP.png" width="1000"  alt="Proje Görseli">
 
 
 ## Hi there 👋
