@@ -1,5 +1,5 @@
 
-<img src="./images/Kediy.gif" width="1000">
+<img src="./images/MDWPF.png" width="1000">
 <div align="center">
 
 # 🔴 DeWofflan | Developer & Map Creator
@@ -8,10 +8,12 @@
 
 ### ✨ Hakkımda
 
-Oyun geliştirme ve yazılım dilleri üzerine yoğun bir eğitim sürecindeyim. Ağırlıklı olarak **Unity** ve **C#** üzerinde uzmanlaşıyorum. Web geliştirmeden uygulama projelerine kadar geniş bir yelpazede kendimi geliştiriyorum.
+OYazılım dünyasında birçok farklı alana ilgi duysam da asıl odak noktam Oyun Geliştirme, C# ve Level Design. Yaratıcılığımı beslemek için kitaplardan filmlere, mangalardan webtoonlara kadar devasa bir kurgu evreni tüketiyor; oyun dünyasına yepyeni bakış açıları kazandıracak özgün fikirler üretmek için sürekli araştırıyorum. En büyük hayalim, milyonlarca insanın severek oynayacağı iz bırakan oyunlar geliştirmek.
 
-Aynı zamanda bir **Minecraft Map Creator** olarak dünyalar inşa ediyorum. Şu an ekibimle **"Maze Runner"** projesi üzerinde çalışıyoruz ve GANO 3.92 başarımı projelerimdeki disipline yansıtıyorum.
-
+🟥 Şu an: [DUNGEONWARS] projesi üzerinde çalışıyor ve kendimi geliştiriyorum.
+🔻 Odak: Unity, C# ve 3D Modelleme yeteneklerimi bir üst seviyeye taşıyorum.
+🔺 Ekip İşi: RealMC ekibimizle birlikte Minecraft'ta "MAZE RUNNERS" oyunumuzu geliştiriyoruz. Hedefimiz bu yaz aylarında güzel bir çıkış yapmak.
+🟥 Hobilerim: Çalışmak :D
 ---
 
 ### 🛠️ Teknolojiler & Araçlar
