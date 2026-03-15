@@ -1,3 +1,6 @@
+<img src="../images/MDWP.png" width="300" height="200" alt="Proje Görseli">
+
+
 ## Hi there 👋
 
 <!--
