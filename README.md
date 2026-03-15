@@ -1,7 +1,6 @@
-<img src="./images/MDWPF.png" width="1000" height="600"  alt="Proje Görseli">
 <div align="center">
 
-# Merhaba, Ben Wofflan 🚀
+# Merhaba, Ben DeWofflan 🚀
 
 ---
 
@@ -24,10 +23,12 @@ Aynı zamanda bir **Minecraft Map Creator**'ım. Minecraft dünyasında oyunlar 
 
 ---
 
-### 📊 GitHub Aktiflik İstatistiklerim
+### 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeWofflan&show_icons=true&theme=radical)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeWofflan&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeWofflan&show_icons=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000)
+
+![Contribution Graph](https://github-readme-stats.vercel.app/api/pin/?username=DeWofflan&repo=REPOSU_ADI&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeWofflan&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=false)
 
 </div>
