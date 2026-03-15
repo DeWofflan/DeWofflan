@@ -8,11 +8,11 @@
         <br />
         <h1>🚀 Merhaba, Ben Umut</h1>
         <p>
-          <b>Bilgisayar Programcılığı Öğrencisi | Oyun Geliştirici | Siber Güvenlik Meraklısı</b>
+          <b>![]()<img src="./images/MDWPF.png" width="100"   alt="Proje Görseli">Bilgisayar Programcılığı Öğrencisi | Oyun Geliştirici | Siber Güvenlik Meraklısı</b>
         </p>
         <p>
           Sistemlerin nasıl çalıştığını anlamayı ve Unity ile yeni dünyalar inşa etmeyi seviyorum. 
-          Şu an GANO 3.92 ile projelerime odaklanmış durumdayım.
+          Şu an 
         </p>
         <br />
       </td>
