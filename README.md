@@ -1,6 +1,6 @@
 
 <img src="./images/MDWPF.png" width="1000">
-<div align="center">
+<div>
 
 # 🔴 DeWofflan | Developer & Map Creator
 
@@ -8,11 +8,11 @@
 
 ### ✨ Hakkımda
 
-OYazılım dünyasında birçok farklı alana ilgi duysam da asıl odak noktam Oyun Geliştirme, C# ve Level Design. Yaratıcılığımı beslemek için kitaplardan filmlere, mangalardan webtoonlara kadar devasa bir kurgu evreni tüketiyor; oyun dünyasına yepyeni bakış açıları kazandıracak özgün fikirler üretmek için sürekli araştırıyorum. En büyük hayalim, milyonlarca insanın severek oynayacağı iz bırakan oyunlar geliştirmek.
+Yazılım dünyasında birçok farklı alana ilgi duysam da asıl odak noktam <b>Oyun Geliştirme, C# ve Level Design</b>. Yaratıcılığımı beslemek için kitaplardan filmlere, mangalardan webtoonlara kadar devasa bir kurgu evreni tüketiyor; oyun dünyasına yepyeni bakış açıları kazandıracak özgün fikirler üretmek için sürekli araştırıyorum. En büyük hayalim, milyonlarca insanın severek oynayacağı iz bırakan oyunlar geliştirmek.
 
-🟥 Şu an: [DUNGEONWARS] projesi üzerinde çalışıyor ve kendimi geliştiriyorum.
-🔻 Odak: Unity, C# ve 3D Modelleme yeteneklerimi bir üst seviyeye taşıyorum.
-🔺 Ekip İşi: RealMC ekibimizle birlikte Minecraft'ta "MAZE RUNNERS" oyunumuzu geliştiriyoruz. Hedefimiz bu yaz aylarında güzel bir çıkış yapmak.
+🟥 Şu an: [DUNGEONWARS] projesi üzerinde çalışıyor ve kendimi geliştiriyorum.<br>                                             
+🔻 Odak: Unity, C# ve 3D Modelleme yeteneklerimi bir üst seviyeye taşıyorum.<br>
+🔺 Ekip İşi: RealMC ekibimizle birlikte Minecraft'ta "MAZE RUNNERS" oyunumuzu geliştiriyoruz. Hedefimiz bu yaz aylarında güzel bir çıkış yapmak.<br><br>
 🟥 Hobilerim: Çalışmak :D
 ---
 
