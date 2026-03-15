@@ -26,8 +26,8 @@ Aynı zamanda bir **Minecraft Map Creator**'ım. Minecraft dünyasında oyunlar 
 
 ### 📊 GitHub Aktiflik İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeWofflan&show_icons=true&theme=radical)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeWofflan&layout=compact&theme=radical)
 
 </div>
