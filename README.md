@@ -1,14 +1,14 @@
-![]()<img src="./images/MDWPF.png" width="1000" height="600"  alt="Proje Görseli">
+
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <br />
-        <img src="./images/banner.png" width="500" alt="Profil Banner" />
+        <img src="./images/MDWPF.png" width="1000" height="600"  alt="Proje Görseli">
         <br />
         <h1>🚀 Merhaba, Ben Umut</h1>
         <p>
-          <b>![]()<img src="./images/MDWPF.png" width="100"   alt="Proje Görseli">Bilgisayar Programcılığı Öğrencisi | Oyun Geliştirici | Siber Güvenlik Meraklısı</b>
+          <b>Bilgisayar Programcılığı Öğrencisi | Oyun Geliştirici | Siber Güvenlik Meraklısı</b>
         </p>
         <p>
           Sistemlerin nasıl çalıştığını anlamayı ve Unity ile yeni dünyalar inşa etmeyi seviyorum. 
